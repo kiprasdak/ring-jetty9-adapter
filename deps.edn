@@ -9,5 +9,4 @@
         org.eclipse.jetty.http2/http2-server {:mvn/version "11.0.15"}
         org.eclipse.jetty/jetty-alpn-server {:mvn/version "11.0.15"}
         org.eclipse.jetty/jetty-alpn-java-server {:mvn/version "11.0.15"}
-        org.eclipse.jetty/jetty-server {:mvn/version "11.0.15"}
 }}
